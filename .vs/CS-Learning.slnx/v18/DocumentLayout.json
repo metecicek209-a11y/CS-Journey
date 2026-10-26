@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\metec\\source\\repos\\CS-Learning\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{261F3C49-4F14-4451-AE92-C099C328FC18}|CS-Learning\\CS-Learning.csproj|c:\\users\\metec\\source\\repos\\cs-learning\\cs-learning\\generics\\genericsexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{261F3C49-4F14-4451-AE92-C099C328FC18}|CS-Learning\\CS-Learning.csproj|solutionrelative:cs-learning\\generics\\genericsexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EBF2B3EB-6D17-0EE8-DD3F-155C7600478D}|CS-Learning\\CS-Learning.csproj|c:\\users\\metec\\source\\repos\\cs-learning\\cs-learning\\abstractclass\\abstractclassexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF2B3EB-6D17-0EE8-DD3F-155C7600478D}|CS-Learning\\CS-Learning.csproj|solutionrelative:cs-learning\\abstractclass\\abstractclassexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{261F3C49-4F14-4451-AE92-C099C328FC18}|CS-Learning\\CS-Learning.csproj|c:\\users\\metec\\source\\repos\\cs-learning\\cs-learning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{261F3C49-4F14-4451-AE92-C099C328FC18}|CS-Learning\\CS-Learning.csproj|solutionrelative:cs-learning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EBF2B3EB-6D17-0EE8-DD3F-155C7600478D}|CS-Learning\\CS-Learning.csproj|c:\\users\\metec\\source\\repos\\cs-learning\\cs-learning\\generics\\genericsexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF2B3EB-6D17-0EE8-DD3F-155C7600478D}|CS-Learning\\CS-Learning.csproj|solutionrelative:cs-learning\\generics\\genericsexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF2B3EB-6D17-0EE8-DD3F-155C7600478D}|CS-Learning\\CS-Learning.csproj|c:\\users\\metec\\source\\repos\\cs-learning\\cs-learning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF2B3EB-6D17-0EE8-DD3F-155C7600478D}|CS-Learning\\CS-Learning.csproj|solutionrelative:cs-learning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AbstractClassExample.cs",
+              "DocumentMoniker": "C:\\Users\\metec\\source\\repos\\CS-Learning\\CS-Learning\\AbstractClass\\AbstractClassExample.cs",
+              "RelativeDocumentMoniker": "CS-Learning\\AbstractClass\\AbstractClassExample.cs",
+              "ToolTip": "C:\\Users\\metec\\source\\repos\\CS-Learning\\CS-Learning\\AbstractClass\\AbstractClassExample.cs",
+              "RelativeToolTip": "CS-Learning\\AbstractClass\\AbstractClassExample.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T20:30:28.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "GenericsExample.cs",
               "DocumentMoniker": "C:\\Users\\metec\\source\\repos\\CS-Learning\\CS-Learning\\Generics\\GenericsExample.cs",
               "RelativeDocumentMoniker": "CS-Learning\\Generics\\GenericsExample.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\metec\\source\\repos\\CS-Learning\\CS-Learning\\Program.cs",
               "RelativeDocumentMoniker": "CS-Learning\\Program.cs",
@@ -47,8 +64,7 @@
               "RelativeToolTip": "CS-Learning\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T20:21:07.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-26T20:21:07.783Z"
             }
           ]
         }
