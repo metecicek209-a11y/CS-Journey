@@ -2,3 +2,15 @@ C:\Users\metec\source\repos\CS-Learning\CS-Learning\obj\Debug\net10.0\CS-Learnin
 C:\Users\metec\source\repos\CS-Learning\CS-Learning\obj\Debug\net10.0\CS-Learning.AssemblyInfoInputs.cache
 C:\Users\metec\source\repos\CS-Learning\CS-Learning\obj\Debug\net10.0\CS-Learning.AssemblyInfo.cs
 C:\Users\metec\source\repos\CS-Learning\CS-Learning\obj\Debug\net10.0\CS-Learning.csproj.CoreCompileInputs.cache
+C:\Users\metec\source\repos\CS-Learning\CS-Learning\bin\Debug\net10.0\CS-Learning.exe
+C:\Users\metec\source\repos\CS-Learning\CS-Learning\bin\Debug\net10.0\CS-Learning.deps.json
+C:\Users\metec\source\repos\CS-Learning\CS-Learning\bin\Debug\net10.0\CS-Learning.runtimeconfig.json
+C:\Users\metec\source\repos\CS-Learning\CS-Learning\bin\Debug\net10.0\CS-Learning.dll
+C:\Users\metec\source\repos\CS-Learning\CS-Learning\bin\Debug\net10.0\CS-Learning.pdb
+C:\Users\metec\source\repos\CS-Learning\CS-Learning\obj\Debug\net10.0\CS-Learning.sourcelink.json
+C:\Users\metec\source\repos\CS-Learning\CS-Learning\obj\Debug\net10.0\CS-Learning.dll
+C:\Users\metec\source\repos\CS-Learning\CS-Learning\obj\Debug\net10.0\refint\CS-Learning.dll
+C:\Users\metec\source\repos\CS-Learning\CS-Learning\obj\Debug\net10.0\CS-Learning.pdb
+C:\Users\metec\source\repos\CS-Learning\CS-Learning\obj\Debug\net10.0\CS-Learning.genruntimeconfig.cache
+C:\Users\metec\source\repos\CS-Learning\CS-Learning\obj\Debug\net10.0\ref\CS-Learning.dll
+C:\Users\metec\source\repos\CS-Learning\CS-Learning\obj\Debug\net10.0\CS-Learn.8E105794.Up2Date
