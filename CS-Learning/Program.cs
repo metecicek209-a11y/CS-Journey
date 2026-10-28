@@ -1,5 +1,4 @@
-﻿using CS_Learning.Linq; // cs learning projesinin icindeki linq klasoru 
-
-LinqExercise.Run();
+﻿using CS_Learning.Linq;
+LinqExercise2.Run();
 
 Console.WriteLine("Hello, World!");
