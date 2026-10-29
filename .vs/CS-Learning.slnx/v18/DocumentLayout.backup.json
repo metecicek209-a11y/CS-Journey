@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\metec\\source\\repos\\CS-Learning\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EBF2B3EB-6D17-0EE8-DD3F-155C7600478D}|CS-Learning\\CS-Learning.csproj|c:\\users\\metec\\source\\repos\\cs-learning\\cs-learning\\linq\\linqexercise2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBF2B3EB-6D17-0EE8-DD3F-155C7600478D}|CS-Learning\\CS-Learning.csproj|solutionrelative:cs-learning\\linq\\linqexercise2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EBF2B3EB-6D17-0EE8-DD3F-155C7600478D}|CS-Learning\\CS-Learning.csproj|c:\\users\\metec\\source\\repos\\cs-learning\\cs-learning\\generalexamples\\generalexample1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF2B3EB-6D17-0EE8-DD3F-155C7600478D}|CS-Learning\\CS-Learning.csproj|solutionrelative:cs-learning\\generalexamples\\generalexample1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBF2B3EB-6D17-0EE8-DD3F-155C7600478D}|CS-Learning\\CS-Learning.csproj|c:\\users\\metec\\source\\repos\\cs-learning\\cs-learning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBF2B3EB-6D17-0EE8-DD3F-155C7600478D}|CS-Learning\\CS-Learning.csproj|solutionrelative:cs-learning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBF2B3EB-6D17-0EE8-DD3F-155C7600478D}|CS-Learning\\CS-Learning.csproj|c:\\users\\metec\\source\\repos\\cs-learning\\cs-learning\\linq\\linqexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBF2B3EB-6D17-0EE8-DD3F-155C7600478D}|CS-Learning\\CS-Learning.csproj|solutionrelative:cs-learning\\linq\\linqexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +18,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GeneralExample1.cs",
+              "DocumentMoniker": "C:\\Users\\metec\\source\\repos\\CS-Learning\\CS-Learning\\GeneralExamples\\GeneralExample1.cs",
+              "RelativeDocumentMoniker": "CS-Learning\\GeneralExamples\\GeneralExample1.cs",
+              "ToolTip": "C:\\Users\\metec\\source\\repos\\CS-Learning\\CS-Learning\\GeneralExamples\\GeneralExample1.cs",
+              "RelativeToolTip": "CS-Learning\\GeneralExamples\\GeneralExample1.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAQwFcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T07:13:57.252Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LinqExercise2.cs",
-              "DocumentMoniker": "C:\\Users\\metec\\source\\repos\\CS-Learning\\CS-Learning\\Linq\\LinqExercise2.cs",
-              "RelativeDocumentMoniker": "CS-Learning\\Linq\\LinqExercise2.cs",
-              "ToolTip": "C:\\Users\\metec\\source\\repos\\CS-Learning\\CS-Learning\\Linq\\LinqExercise2.cs",
-              "RelativeToolTip": "CS-Learning\\Linq\\LinqExercise2.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-28T16:05:45.707Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
             },
             {
               "$type": "Document",
@@ -49,22 +49,9 @@
               "RelativeDocumentMoniker": "CS-Learning\\Program.cs",
               "ToolTip": "C:\\Users\\metec\\source\\repos\\CS-Learning\\CS-Learning\\Program.cs",
               "RelativeToolTip": "CS-Learning\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-27T17:08:31.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LinqExercise.cs",
-              "DocumentMoniker": "C:\\Users\\metec\\source\\repos\\CS-Learning\\CS-Learning\\Linq\\LinqExercise.cs",
-              "RelativeDocumentMoniker": "CS-Learning\\Linq\\LinqExercise.cs",
-              "ToolTip": "C:\\Users\\metec\\source\\repos\\CS-Learning\\CS-Learning\\Linq\\LinqExercise.cs",
-              "RelativeToolTip": "CS-Learning\\Linq\\LinqExercise.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCUAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T16:53:21.143Z",
               "EditorCaption": ""
             }
           ]

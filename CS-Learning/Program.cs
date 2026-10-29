@@ -1,4 +1,4 @@
-﻿using CS_Learning.Linq;
-LinqExercise2.Run();
+﻿using CS_Learning.GeneralExamples;
 
-Console.WriteLine("Hello, World!");
+GeneralExample1.Run();
+Console.WriteLine("-----");

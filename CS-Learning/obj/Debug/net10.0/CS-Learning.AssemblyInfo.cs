@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CS-Learning")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0135d0ae1b3597ec482d2d5aefe06a2757b59fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+841204ad2b0d8bbde59c638d7d0f5c3817bd77e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("CS-Learning")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CS-Learning")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
